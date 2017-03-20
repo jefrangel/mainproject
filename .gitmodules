@@ -1,0 +1,6 @@
+[submodule "jslib"]
+	path = jslib
+	url = https://github.com/jefrangel/jslib.git
+[submodule "csslib"]
+	path = csslib
+	url = https://github.com/jefrangel/csslib.git
